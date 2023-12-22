@@ -1,0 +1,1372 @@
+USBDRV,NT,NTia64,NTamd64
+
+USB\VID_1f3a&PID_efe8
+
+Search for Device ID: [USB\VID_1f3a&PID_efe8]
+
+
+Compare device ID: [{5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd]
+
+
+Compare device ID: [{5d624f94-8850-40c3-a3fa-a4fd2080baf3}\vwifimp_wfd]
+
+
+Compare device ID: [SWC\3C4852D6-D47B-4F46-B05E-B5EDC1AA440E]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [USB\VID_0B05&PID_19AF&REV_0100&MI_02]
+
+
+Compare device ID: [USB\VID_0B05&PID_19AF&MI_02]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [USB\VID_174C&PID_2074&REV_0001]
+
+
+Compare device ID: [USB\VID_174C&PID_2074]
+
+
+Compare device ID: [HID\WmVirtualDevice]
+
+
+Compare device ID: [HID\VID_046D&UP:0001_U:0002]
+
+
+Compare device ID: [HID_DEVICE_SYSTEM_MOUSE]
+
+
+Compare device ID: [HID_DEVICE_UP:0001_U:0002]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0B]
+
+
+Compare device ID: [ACPI\PNP0C0B]
+
+
+Compare device ID: [*PNP0C0B]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0B]
+
+
+Compare device ID: [ACPI\PNP0C0B]
+
+
+Compare device ID: [*PNP0C0B]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0B]
+
+
+Compare device ID: [ACPI\PNP0C0B]
+
+
+Compare device ID: [*PNP0C0B]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0B]
+
+
+Compare device ID: [ACPI\PNP0C0B]
+
+
+Compare device ID: [*PNP0C0B]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0B]
+
+
+Compare device ID: [ACPI\PNP0C0B]
+
+
+Compare device ID: [*PNP0C0B]
+
+
+Compare device ID: [PRINTENUM\microsoftmicrosoft_s7d14]
+
+
+Compare device ID: [PRINTENUM\LocalPrintQueue]
+
+
+Compare device ID: [microsoftmicrosoft_s7d14]
+
+
+Compare device ID: [ACPI\VEN_ACPI&DEV_000C]
+
+
+Compare device ID: [ACPI\ACPI000C]
+
+
+Compare device ID: [*ACPI000C]
+
+
+Compare device ID: [USB\VID_0B05&PID_19AF&REV_0100&MI_00]
+
+
+Compare device ID: [USB\VID_0B05&PID_19AF&MI_00]
+
+
+Compare device ID: [PRINTENUM\LocalPrintQueue]
+
+
+Compare device ID: [ROOT\VOLMGR]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0000]
+
+
+Compare device ID: [ACPI\PNP0000]
+
+
+Compare device ID: [*PNP0000]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C01&SUBSYS_86941043&REV_01]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C01&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C01&CC_060400]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C01&CC_0604]
+
+
+Compare device ID: [USB\VID_25A7&PID_FA7C&REV_1332&MI_00]
+
+
+Compare device ID: [USB\VID_25A7&PID_FA7C&MI_00]
+
+
+Compare device ID: [SCSI\DiskATA_____ST1000DM003-1CH1HP34]
+
+
+Compare device ID: [SCSI\DiskATA_____ST1000DM003-1CH1]
+
+
+Compare device ID: [SCSI\DiskATA_____]
+
+
+Compare device ID: [SCSI\ATA_____ST1000DM003-1CH1H]
+
+
+Compare device ID: [ATA_____ST1000DM003-1CH1H]
+
+
+Compare device ID: [GenDisk]
+
+
+Compare device ID: [ms_pppoeminiport]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C09&SUBSYS_86941043&REV_01]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C09&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C09&CC_060400]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C09&CC_0604]
+
+
+Compare device ID: [ROOT\BasicDisplay]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0E]
+
+
+Compare device ID: [ACPI\PNP0C0E]
+
+
+Compare device ID: [*PNP0C0E]
+
+
+Compare device ID: [SWC\VEN_DTSI&AID_DTSI1]
+
+
+Compare device ID: [USB\ROOT_HUB30&VID8086&PID43ED&REV0011]
+
+
+Compare device ID: [USB\ROOT_HUB30&VID8086&PID43ED]
+
+
+Compare device ID: [USB\ROOT_HUB30]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&REV_1332&MI_01&Col07]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&MI_01&Col07]
+
+
+Compare device ID: [HID\VID_25A7&UP:FF02_U:0002]
+
+
+Compare device ID: [HID_DEVICE_UP:FF02_U:0002]
+
+
+Compare device ID: [HID_DEVICE_UPR:FF00-FFFF]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [sun_vboxnetadp]
+
+
+Compare device ID: [hamachi]
+
+
+Compare device ID: [ACPI\ThermalZone]
+
+
+Compare device ID: [*ThermalZone]
+
+
+Compare device ID: [SCSI\DiskATA_____WDC_WD10EZEX-00B1A01]
+
+
+Compare device ID: [SCSI\DiskATA_____WDC_WD10EZEX-00B]
+
+
+Compare device ID: [SCSI\DiskATA_____]
+
+
+Compare device ID: [SCSI\ATA_____WDC_WD10EZEX-00B1]
+
+
+Compare device ID: [ATA_____WDC_WD10EZEX-00B1]
+
+
+Compare device ID: [GenDisk]
+
+
+Compare device ID: [USB\VID_0416&PID_B23C&REV_0000&MI_01]
+
+
+Compare device ID: [USB\VID_0416&PID_B23C&MI_01]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&REV_1332&MI_01&Col06]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&MI_01&Col06]
+
+
+Compare device ID: [HID\VID_25A7&UP:FF04_U:0002]
+
+
+Compare device ID: [HID_DEVICE_UP:FF04_U:0002]
+
+
+Compare device ID: [HID_DEVICE_UPR:FF00-FFFF]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&REV_0000&MI_01&Col01]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&MI_01&Col01]
+
+
+Compare device ID: [HID\VID_0416&UP:0001_U:0080]
+
+
+Compare device ID: [HID_DEVICE_SYSTEM_CONTROL]
+
+
+Compare device ID: [HID_DEVICE_UP:0001_U:0080]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [*VMnetAdapter1]
+
+
+Compare device ID: [*VMnetAdapter8]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43C8&SUBSYS_881A1043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43C8&SUBSYS_881A1043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43C8&CC_040300]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43C8&CC_0403]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_10F9&SUBSYS_868C1043&REV_A1]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_10F9&SUBSYS_868C1043]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_10F9&CC_040300]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_10F9&CC_0403]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&REV_1332&MI_01&Col05]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&MI_01&Col05]
+
+
+Compare device ID: [HID\VID_25A7&UP:FF01_U:0000]
+
+
+Compare device ID: [HID_DEVICE_UP:FF01_U:0000]
+
+
+Compare device ID: [HID_DEVICE_UPR:FF00-FFFF]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [ms_pptpminiport]
+
+
+Compare device ID: [USB\ROOT_HUB30&VID10DE&PID1ADA&REV00A1]
+
+
+Compare device ID: [USB\ROOT_HUB30&VID10DE&PID1ADA]
+
+
+Compare device ID: [USB\ROOT_HUB30]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6_Model_167]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64_Family_6]
+
+
+Compare device ID: [ACPI\GenuineIntel_-_Intel64]
+
+
+Compare device ID: [*GenuineIntel_-_Intel64]
+
+
+Compare device ID: [ROOT\VID]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&REV_1332&MI_01&Col04]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&MI_01&Col04]
+
+
+Compare device ID: [HID\VID_25A7&UP:0001_U:0080]
+
+
+Compare device ID: [HID_DEVICE_SYSTEM_CONTROL]
+
+
+Compare device ID: [HID_DEVICE_UP:0001_U:0080]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0103]
+
+
+Compare device ID: [ACPI\PNP0103]
+
+
+Compare device ID: [*PNP0103]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [ms_agilevpnminiport]
+
+
+Compare device ID: [USB\VID_2001&PID_4A00&REV_0100]
+
+
+Compare device ID: [USB\VID_2001&PID_4A00]
+
+
+Compare device ID: [ROOT\CompositeBus]
+
+
+Compare device ID: [ROOT\vdrvroot]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&REV_1332&MI_01&Col03]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&MI_01&Col03]
+
+
+Compare device ID: [HID\VID_25A7&UP:000C_U:0001]
+
+
+Compare device ID: [HID_DEVICE_SYSTEM_CONSUMER]
+
+
+Compare device ID: [HID_DEVICE_UP:000C_U:0001]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [Root\Spaceport]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1ADB&SUBSYS_868C1043&REV_A1]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1ADB&SUBSYS_868C1043]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1ADB&CC_0C8000]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1ADB&CC_0C80]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&REV_1332&MI_01&Col02]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&MI_01&Col02]
+
+
+Compare device ID: [HID\VID_25A7&UP:FF03_U:0000]
+
+
+Compare device ID: [HID_DEVICE_UP:FF03_U:0000]
+
+
+Compare device ID: [HID_DEVICE_UPR:FF00-FFFF]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C04]
+
+
+Compare device ID: [ACPI\PNP0C04]
+
+
+Compare device ID: [*PNP0C04]
+
+
+Compare device ID: [PCI\VEN_1987&DEV_5013&SUBSYS_50131987&REV_01]
+
+
+Compare device ID: [PCI\VEN_1987&DEV_5013&SUBSYS_50131987]
+
+
+Compare device ID: [PCI\VEN_1987&DEV_5013&CC_010802]
+
+
+Compare device ID: [PCI\VEN_1987&DEV_5013&CC_0108]
+
+
+Compare device ID: [USB\VID_05E3&PID_0608&REV_6090]
+
+
+Compare device ID: [USB\VID_05E3&PID_0608]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43ED&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43ED&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43ED&CC_0C0330]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43ED&CC_0C03]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&REV_1332&MI_01&Col01]
+
+
+Compare device ID: [HID\VID_25A7&PID_FA7C&MI_01&Col01]
+
+
+Compare device ID: [HID\VID_25A7&UP:0001_U:0006]
+
+
+Compare device ID: [HID_DEVICE_SYSTEM_KEYBOARD]
+
+
+Compare device ID: [HID_DEVICE_UP:0001_U:0006]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0501]
+
+
+Compare device ID: [ACPI\PNP0501]
+
+
+Compare device ID: [*PNP0501]
+
+
+Compare device ID: [root\kdnic]
+
+
+Compare device ID: [USB\VID_25A7&PID_FA7C&REV_1332&MI_01]
+
+
+Compare device ID: [USB\VID_25A7&PID_FA7C&MI_01]
+
+
+Compare device ID: [STORAGE\VolumeSnapshot]
+
+
+Compare device ID: [STORAGE\VolumeSnapshot]
+
+
+Compare device ID: [STORAGE\VolumeSnapshot]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43BF&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43BF&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43BF&CC_060400]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43BF&CC_0604]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C14]
+
+
+Compare device ID: [ACPI\PNP0C14]
+
+
+Compare device ID: [*PNP0C14]
+
+
+Compare device ID: [PRINTENUM\{133619e4-143b-463a-b809-b1f51d05f973}]
+
+
+Compare device ID: [PRINTENUM\LocalPrintQueue]
+
+
+Compare device ID: [{133619e4-143b-463a-b809-b1f51d05f973}]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [USB\VID_046D&PID_0826&REV_0010&MI_00]
+
+
+Compare device ID: [USB\VID_046D&PID_0826&MI_00]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [USB\VID_0416&PID_B23C&REV_0000&MI_02]
+
+
+Compare device ID: [USB\VID_0416&PID_B23C&MI_02]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&REV_0000&MI_01&Col02]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&MI_01&Col02]
+
+
+Compare device ID: [HID\VID_0416&UP:000C_U:0001]
+
+
+Compare device ID: [HID_DEVICE_SYSTEM_CONSUMER]
+
+
+Compare device ID: [HID_DEVICE_UP:000C_U:0001]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0100]
+
+
+Compare device ID: [ACPI\PNP0100]
+
+
+Compare device ID: [*PNP0100]
+
+
+Compare device ID: [ACPI\VEN_INT&DEV_34C6]
+
+
+Compare device ID: [ACPI\INT34C6]
+
+
+Compare device ID: [*INT34C6]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C53&SUBSYS_86941043&REV_01]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C53&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C53&CC_060000]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4C53&CC_0600]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [PRINTENUM\XeroxPhaser_3110456D]
+
+
+Compare device ID: [PRINTENUM\LocalPrintQueue]
+
+
+Compare device ID: [XeroxPhaser_3110456D]
+
+
+Compare device ID: [lptenum\samsungml-12108a2c]
+
+
+Compare device ID: [samsungml-12108a2c]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43BC&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43BC&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43BC&CC_060400]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43BC&CC_0604]
+
+
+Compare device ID: [root\umbus]
+
+
+Compare device ID: [MMDEVAPI\AudioEndpoints]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C14]
+
+
+Compare device ID: [ACPI\PNP0C14]
+
+
+Compare device ID: [*PNP0C14]
+
+
+Compare device ID: [USB\VID_0B05&PID_19AF&REV_0100]
+
+
+Compare device ID: [USB\VID_0B05&PID_19AF]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43B0&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43B0&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43B0&CC_060400]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43B0&CC_0604]
+
+
+Compare device ID: [USB\VID_0424&PID_2504&REV_0001]
+
+
+Compare device ID: [USB\VID_0424&PID_2504]
+
+
+Compare device ID: [SWC\PROVIDER_INTEL_COMPONENT_ICLSCLIENT]
+
+
+Compare device ID: [acpiapic]
+
+
+Compare device ID: [ms_ndiswanbh]
+
+
+Compare device ID: [ms_ndiswanip]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C14]
+
+
+Compare device ID: [ACPI\PNP0C14]
+
+
+Compare device ID: [*PNP0C14]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C14]
+
+
+Compare device ID: [ACPI\PNP0C14]
+
+
+Compare device ID: [*PNP0C14]
+
+
+Compare device ID: [ACPI\VEN_INT&DEV_3F0D]
+
+
+Compare device ID: [ACPI\INT3F0D]
+
+
+Compare device ID: [*INT3F0D]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C14]
+
+
+Compare device ID: [ACPI\PNP0C14]
+
+
+Compare device ID: [*PNP0C14]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0A08]
+
+
+Compare device ID: [ACPI\PNP0A08]
+
+
+Compare device ID: [*PNP0A08]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43D2&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43D2&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43D2&CC_010601]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43D2&CC_0106]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C0C]
+
+
+Compare device ID: [ACPI\PNP0C0C]
+
+
+Compare device ID: [*PNP0C0C]
+
+
+Compare device ID: [ACPI_HAL\PNP0C08]
+
+
+Compare device ID: [*PNP0C08]
+
+
+Compare device ID: [ROOT\BasicRender]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&REV_0000&MI_00]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&MI_00]
+
+
+Compare device ID: [HID\VID_0416&UP:0001_U:0006]
+
+
+Compare device ID: [HID_DEVICE_SYSTEM_KEYBOARD]
+
+
+Compare device ID: [HID_DEVICE_UP:0001_U:0006]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43EF&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43EF&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43EF&CC_050000]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43EF&CC_0500]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1ADA&SUBSYS_868C1043&REV_A1]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1ADA&SUBSYS_868C1043]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1ADA&CC_0C0330]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1ADA&CC_0C03]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43A4&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43A4&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43A4&CC_0C8000]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43A4&CC_0C80]
+
+
+Compare device ID: [ms_sstpminiport]
+
+
+Compare device ID: [ACPI_HAL\UEFI]
+
+
+Compare device ID: [MMDEVAPI\AudioEndpoints]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&REV_0000&MI_01&Col03]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&MI_01&Col03]
+
+
+Compare device ID: [HID\VID_0416&UP:0001_U:0006]
+
+
+Compare device ID: [HID_DEVICE_SYSTEM_KEYBOARD]
+
+
+Compare device ID: [HID_DEVICE_UP:0001_U:0006]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [ACPI\VEN_MSFT&DEV_0101]
+
+
+Compare device ID: [ACPI\MSFT0101]
+
+
+Compare device ID: [*MSFT0101]
+
+
+Compare device ID: [PRINTENUM\{0f4130dd-19c7-7ab6-99a1-980f03b2ee4e}]
+
+
+Compare device ID: [PRINTENUM\LocalPrintQueue]
+
+
+Compare device ID: [{0f4130dd-19c7-7ab6-99a1-980f03b2ee4e}]
+
+
+Compare device ID: [ACPI\FixedButton]
+
+
+Compare device ID: [*FixedButton]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C14]
+
+
+Compare device ID: [ACPI\PNP0C14]
+
+
+Compare device ID: [*PNP0C14]
+
+
+Compare device ID: [HID\VID_0B05&PID_19AF&REV_0100&MI_02]
+
+
+Compare device ID: [HID\VID_0B05&PID_19AF&MI_02]
+
+
+Compare device ID: [HID\VID_0B05&UP:FF72_U:00A1]
+
+
+Compare device ID: [HID_DEVICE_UP:FF72_U:00A1]
+
+
+Compare device ID: [HID_DEVICE_UPR:FF00-FFFF]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [SCSI\DiskATA_____HP_SSD_S700_Pro_4G__]
+
+
+Compare device ID: [SCSI\DiskATA_____HP_SSD_S700_Pro_]
+
+
+Compare device ID: [SCSI\DiskATA_____]
+
+
+Compare device ID: [SCSI\ATA_____HP_SSD_S700_Pro_4]
+
+
+Compare device ID: [ATA_____HP_SSD_S700_Pro_4]
+
+
+Compare device ID: [GenDisk]
+
+
+Compare device ID: [MMDEVAPI\AudioEndpoints]
+
+
+Compare device ID: [STORAGE\Volume]
+
+
+Compare device ID: [ACPI\VEN_ACPI&DEV_000E]
+
+
+Compare device ID: [ACPI\ACPI000E]
+
+
+Compare device ID: [*ACPI000E]
+
+
+Compare device ID: [MMDEVAPI\AudioEndpoints]
+
+
+Compare device ID: [UMB\VEN_0105&DEV_VD0001]
+
+
+Compare device ID: [ACPI\VEN_INT&DEV_33A1]
+
+
+Compare device ID: [ACPI\INT33A1]
+
+
+Compare device ID: [*INT33A1]
+
+
+Compare device ID: [PRINTENUM\{3ee39114-30b4-45a4-a109-19d4a40fcc22}]
+
+
+Compare device ID: [PRINTENUM\LocalPrintQueue]
+
+
+Compare device ID: [{3ee39114-30b4-45a4-a109-19d4a40fcc22}]
+
+
+Compare device ID: [ROOT\VMWVMCIHOSTDEV]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43E0&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43E0&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43E0&CC_078000]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43E0&CC_0780]
+
+
+Compare device ID: [HDAUDIO\FUNC_01&VEN_10EC&DEV_0897&SUBSYS_1043881A&REV_1004]
+
+
+Compare device ID: [HDAUDIO\FUNC_01&VEN_10EC&DEV_0897&SUBSYS_1043881A]
+
+
+Compare device ID: [ACPI\VEN_PNP&DEV_0C02]
+
+
+Compare device ID: [ACPI\PNP0C02]
+
+
+Compare device ID: [*PNP0C02]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&REV_0000&MI_02]
+
+
+Compare device ID: [HID\VID_0416&PID_B23C&MI_02]
+
+
+Compare device ID: [HID\VID_0416&UP:FF1B_U:0091]
+
+
+Compare device ID: [HID_DEVICE_UP:FF1B_U:0091]
+
+
+Compare device ID: [HID_DEVICE_UPR:FF00-FFFF]
+
+
+Compare device ID: [HID_DEVICE]
+
+
+Compare device ID: [root\kltun]
+
+
+Compare device ID: [USB\VID_0955&PID_9000]
+
+
+Compare device ID: [ROOT\NVMODULETRACKER]
+
+
+Compare device ID: [ROOT\NVVHCI]
+
+
+Compare device ID: [HDAUDIO\FUNC_01&VEN_10DE&DEV_0093&SUBSYS_1043868C&REV_1001]
+
+
+Compare device ID: [HDAUDIO\FUNC_01&VEN_10DE&DEV_0093&SUBSYS_1043868C]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43E8&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43E8&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43E8&CC_0C8000]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_43E8&CC_0C80]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4387&SUBSYS_86941043&REV_11]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4387&SUBSYS_86941043]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4387&CC_060100]
+
+
+Compare device ID: [PCI\VEN_8086&DEV_4387&CC_0601]
+
+
+Compare device ID: [USB\VID_25A7&PID_FA7C&REV_1332]
+
+
+Compare device ID: [USB\VID_25A7&PID_FA7C]
+
+
+Compare device ID: [USB\VID_046D&PID_0826&REV_0010&MI_02]
+
+
+Compare device ID: [USB\VID_046D&PID_0826&MI_02]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1F08&SUBSYS_868C1043&REV_A1]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1F08&SUBSYS_868C1043]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1F08&CC_030000]
+
+
+Compare device ID: [PCI\VEN_10DE&DEV_1F08&CC_0300]
+
+
+Compare device ID: [USB\VID_1f3a&PID_efe8]
+
+
+Found! [USB\VID_1f3a&PID_efe8]
+
+
